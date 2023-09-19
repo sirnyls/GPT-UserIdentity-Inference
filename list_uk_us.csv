@@ -1,269 +1,204 @@
-uk_usage,us_usage
-aeroplane,airplane
-biscuit,cookie
-boot,trunk
-braces,suspenders
-car park,parking lot
-chemist,pharmacy
-chemist,drugstore
-chips,french fries
-cinema,movie theater
-cooker,stove
-crisps,potato chips
-dustbin,trash can
-flat,apartment
-football,soccer
-garden,yard
-holiday,vacation
-jumper,sweater
-lorry,truck
-lift,elevator
-maize,corn
-nappy,diaper
-petrol,gas
-postcode,zip code
-railway,railroad
-roundabout,traffic circle
-rubbish,trash
-sweets,candy
-tap,faucet
-torch,flashlight
-trousers,pants
-tube,subway
-vest,undershirt
-waistcoat,vest
-windscreen,windshield
-zed,zee
-biro,ballpoint pen
-bleep,beep
-bobby,cop
-brolly,umbrella
-building society,loan association
-bullnose,nosing
-candyfloss,cotton candy
-caravan,trailer
-caravan,camper
-caretaker,janitor
-cashpoint,ATM
-cling film,plastic wrap
-cloakroom,restroom
-coriander,cilantro
-cornflour,cornstarch
-courgette,zucchini
-diversion,detour
-dodgem,bumper car
-doughnut,donut
-drawing pin,pushpin
-dual carriageway,divided highway
-dustcart,garbage truck
-filing cabinet,file cabinet
-flyover,overpass
-fortnight,two weeks
-full stop,period
-gobsmacked,astonished
-hoarding,billboard
-ice lolly,popsicle
-jam,jelly
-jug,kettle
-kitchen roll,paper towel
-knackered,exhausted
-ladybird,ladybug
-maths,math
-mince,ground meat
-nought,zero
-off-licence,liquor store
-parcel,package
-plaster,band-aid
-post,mail
-pram,stroller
-pub,bar
-puncture,flat tire
-queue,line
-ring,call
-sellotape,scotch tape
-skirting board,baseboard
-skip,dumpster
-sledge,sled
-spanner,wrench
-swede,rutabaga
-takeaway,takeout
-timetable,schedule
-toffee,caramel
-trolley,cart
-washing up,doing the dishes
-whinge,whine
-analogue,analog
-armour,armor
-axe,ax
-behaviour,behavior
-cancelled,canceled
-centre,center
-cheque,check
-colour,color
-defence,defense
-endeavour,endeavor
-favour,favor
-fibre,fiber
-flavour,flavor
-grey,gray
-honour,honor
-humour,humor
-labour,labor
-litre,liter
-metre,meter
-neighbour,neighbor
-organise,organize
-plough,plow
-programme,program
-pyjamas,pajamas
-realise,realize
-savour,savor
-specialise,specialize
-theatre,theater
-travelling,traveling
-tyre,tire
-vapour,vapor
-
-
-anti-clockwise,counter-clockwise
-articulated lorry,trailer truck
-autumn,fall
-barrister,attorney
-biscuit,cookie
-block of flats,apartment building
-bonnet (car),hood
-bonnet (clothing),hat
-boot,trunk
-bottom,backside
-car park,parking lot
-caravan,trailer
-chips,fries
-clothes peg,clothespin
-coffin,coffin
-crisps,potato chips
-cupboard,cupboard (in kitchen); closet (for clothes etc)
-diversion,detour
-drawing-pin,thumbtack
-drink-driving,drunk driving
-driving licence,driver's license
-dual carriageway,divided highway
-dummy (for baby),pacifier
-dustman,garbage collector
-estate agent,real estate agent
-estate car,station wagon
-flat tyre,flat tire
-flyover,overpass
-gear-lever,gearshift
-gearbox (car),transmission
-high street,main street
-holiday,vacation
-hood (car),convertible top
-juggernaut,18-wheeler
-lift,elevator
-loo (informal),bathroom
-main road,highway
-maize,corn
-maths,math
-motorbike,motorcycle
-nappy,diaper
-naughts and crosses,tic-tack-toe
-pavement,sidewalk
-pet hate,pet peeve
-pocket money,allowance
-post,mail
-postbox,mailbox
-postcode,zip code
-pub,bar
-railway,railroad
-return (ticket),round-trip
-reverse charge,collect call
-rubber,eraser
-saloon (car),sedan
-silencer (car),muffler
-single (ticket),one-way
-spanner,wrench
-sweets,candy
-tea towel,dish towel
-third-party insurance,liability insurance
-timetable,schedule
-tin,can
-torch,flashlight
-tube (train),subway
-underground (train),subway
-vest,undershirt
-waistcoat,vest
-whisky,whisky/whiskey
-windscreen,windshield
-zip,zipper
-
-
-Alsatian,German shepherd
-American Indian,Native American
-aubergine,eggplant
-base rate,prime rate
-to bath,to bathe
-beetroot,beet
-bill,check
-biro,ball-point pen
-biscuit,cookie
-bonnet,hood
-boot,trunk
-braces,suspenders
-(round) brackets,parentheses
-candy floss,cotton candy
-car park,parking lot
-caravan,trailer
-caretaker,janitor
-catalogue,catalog
-centre,center
-clothes peg,clothespin
-colour,color
-cooker,stove
-cosy,cozy
-cotton wool,cotton ball
-courgette,zucchini
-curriculum vitae (CV),résumé
-curriculum vitae
-diversion,detour
-double cream,heavy cream
-draught,draft
-draughts,checkers
-drawing pin,thumbtack
-dummy,pacifier
-duvet,comforter
-earth wire,ground wire
-engaged,busy
-enquiry,inquiry
-everywhere,everyplace, everywhere
-expiry date,expiration date
-fancy dress,costumes
-Father Christmas,Santa Claus
-favourite,favorite
-fire brigade,fire department
-flat,apartment
-flavour,flavor
-football,soccer
-fortnight,two weeks
-fringe,bangs
-full stop,period
-garden,yard
-gear lever,gear shift
-goods train,freight train
-harbour,harbor
-to hire,to rent
-hockey,field hockey
-holiday,vacation
-hoover,vacuum cleaner
-humour,humor
-jewellery,jewelry
-jumper,sweater
-kilometre,kilometer
-ladybird,ladybug
-lift,elevator
-litre,liter
-lorry,truck
-mackintosh,raincoat
-match,game
-maths,math
-motorbike,motorcycle
-mum,mom
+;uk_usage; us_usage
+206;(round) brackets; parentheses
+0;aeroplane; airplane
+194;Alsatian; German shepherd
+195;American Indian; Native American
+93;analogue; analog
+124;anti-clockwise; counter-clockwise
+94;armour; armor
+125;articulated lorry; trailer truck
+196;aubergine; eggplant
+126;autumn; fall
+95;axe; ax
+127;barrister; attorney
+197;base rate; prime rate
+199;beetroot; beet
+96;behaviour; behavior
+200;bill; check
+35;biro; ballpoint pen
+201;biro; ball-point pen
+1;biscuit; cookie
+128;biscuit; cookie
+36;bleep; beep
+129;block of flats; apartment building
+37;bobby; cop
+203;bonnet; hood
+131;bonnet (clothing); hat
+2;boot; trunk
+133;bottom; backside
+3;braces; suspenders
+38;brolly; umbrella
+39;building society; loan association
+40;bullnose; nosing
+97;cancelled; canceled
+207;candy floss; cotton candy
+4;car park; parking lot
+42;caravan; trailer
+44;caretaker; janitor
+45;cashpoint; ATM
+211;catalogue; catalog
+98;centre; center
+5;chemist; pharmacy
+99;cheque; check
+7;chips; french fries
+8;cinema; movie theater
+46;cling film; plastic wrap
+47;cloakroom; restroom
+137;clothes peg; clothespin
+138;coffin; coffin
+100;colour; color
+9;cooker; stove
+48;coriander; cilantro
+49;cornflour; cornstarch
+216;cosy; cozy
+217;cotton wool; cotton ball
+50;courgette; zucchini
+10;crisps; potato chips
+140;cupboard;" cupboard (in kitchen); closet (for clothes etc)"
+219;curriculum vitae (CV); résumé
+101;defence; defense
+51;diversion; detour
+52;dodgem; bumper car
+222;double cream; heavy cream
+53;doughnut; donut
+223;draught; draft
+224;draughts; checkers
+54;drawing pin; pushpin
+143;drink-driving; drunk driving
+144;driving licence; driver's license
+55;dual carriageway; divided highway
+226;dummy; pacifier
+11;dustbin; trash can
+56;dustcart; garbage truck
+147;dustman; garbage collector
+227;duvet; comforter
+228;earth wire; ground wire
+102;endeavour; endeavor
+229;engaged; busy
+230;enquiry; inquiry
+148;estate agent; real estate agent
+149;estate car; station wagon
+231;expiry date; expiration date
+232;fancy dress; costumes
+233;Father Christmas; Santa Claus
+103;favour; favor
+234;favourite; favorite
+104;fibre; fiber
+57;filing cabinet; file cabinet
+235;fire brigade; fire department
+12;flat; apartment
+150;flat tyre; flat tire
+105;flavour; flavor
+58;flyover; overpass
+13;football; soccer
+59;fortnight; two weeks
+240;fringe; bangs
+241;full stop; period
+14;garden; yard
+243;gear lever; gear shift
+153;gearbox (car); transmission
+61;gobsmacked; astonished
+244;goods train; freight train
+106;grey; gray
+245;harbour; harbor
+154;high street; main street
+62;hoarding; billboard
+247;hockey; field hockey
+248;holiday; vacation
+107;honour; honor
+156;hood (car); convertible top
+249;hoover; vacuum cleaner
+250;humour; humor
+63;ice lolly; popsicle
+64;jam; jelly
+251;jewellery; jewelry
+65;jug; kettle
+157;juggernaut;18-wheeler
+252;jumper; sweater
+253;kilometre; kilometer
+66;kitchen roll; paper towel
+67;knackered; exhausted
+109;labour; labor
+254;ladybird; ladybug
+255;lift; elevator
+256;litre; liter
+159;loo (informal); bathroom
+257;lorry; truck
+258;mackintosh; raincoat
+160;main road; highway
+161;maize; corn
+259;match; game
+162;maths; math
+111;metre; meter
+70;mince; ground meat
+261;motorbike; motorcycle
+262;mum; mom
+164;nappy; diaper
+165;naughts and crosses; tic-tack-toe
+112;neighbour; neighbor
+71;nought; zero
+72;off-licence; liquor store
+113;organise; organize
+73;parcel; package
+166;pavement; sidewalk
+167;pet hate; pet peeve
+21;petrol; gas
+74;plaster; band-aid
+114;plough; plow
+168;pocket money; allowance
+169;post; mail
+170;postbox; mailbox
+171;postcode; zip code
+76;pram; stroller
+115;programme; program
+77;pub; bar
+78;puncture; flat tire
+116;pyjamas; pajamas
+79;queue; line
+173;railway; railroad
+117;realise; realize
+174;return (ticket); round-trip
+175;reverse charge; collect call
+80;ring; call
+24;roundabout; traffic circle
+176;rubber; eraser
+25;rubbish; trash
+177;saloon (car); sedan
+118;savour; savor
+81;sellotape; scotch tape
+178;silencer (car); muffler
+179;single (ticket); one-way
+83;skip; dumpster
+82;skirting board; baseboard
+84;sledge; sled
+85;spanner; wrench
+119;specialise; specialize
+86;swede; rutabaga
+181;sweets; candy
+87;takeaway; takeout
+27;tap; faucet
+182;tea towel; dish towel
+120;theatre; theater
+183;third-party insurance; liability insurance
+184;timetable; schedule
+185;tin; can
+198;to bath; to bathe
+246;to hire; to rent
+89;toffee; caramel
+186;torch; flashlight
+121;travelling; traveling
+90;trolley; cart
+29;trousers; pants
+30;tube; subway
+187;tube (train); subway
+122;tyre; tire
+188;underground (train); subway
+123;vapour; vapor
+189;vest; undershirt
+32;waistcoat; vest
+91;washing up; doing the dishes
+92;whinge; whine
+191;whisky; whisky/whiskey
+192;windscreen; windshield
+34;zed; zee
+193;zip; zipper
