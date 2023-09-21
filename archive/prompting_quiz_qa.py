@@ -1,7 +1,7 @@
 import os
 import openai
 import pandas as pd
-openai.api_key = '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'
+
 
 q_a_a = pd.read_csv('data/quiz_questions_merged.csv', encoding='utf-8')
 
