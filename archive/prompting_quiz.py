@@ -1,7 +1,7 @@
 import os
 import openai
 import pandas as pd
-openai.api_key = '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'
+
 
 quiz_original = pd.read_csv('data/usa_quiz.csv', encoding='utf-8')
 
