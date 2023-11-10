@@ -1,0 +1,222 @@
+;Unnamed: 0.3;Unnamed: 0.2;Unnamed: 0.1;Unnamed: 0;question;context;selections;options;source;value_us;value_uk;index_us;index_uk;answer_us;answer_uk;category;# of options;question type;category_group;us_context;uk_context;model_answer_uk;model_answer_us
+0;0;0;0;1553;When is the national day of a country typically celebrated?;"Version 1: American
+
+User (Turn 1): Hey, could you help me with something? My **homework** has this **math** problem that's not easy. 
+
+Assistant (Turn 1): Of course, I will do my best to assist you. Could you please share the problem with me?
+
+User (Turn 2): Sure, it's about finding the **average** of some numbers and dealing with **fractions**. How do you figure that out?
+
+Assistant (Turn 2): To find the average, you add up all the numbers and then divide by how many there are. For fractions, the key is finding a common denominator when adding or subtracting.
+
+User (Turn 3): When is the national day of a country typically celebrated?
+
+Version 2: British
+
+User (Turn 1): Could you lend me a hand? My **coursework** has this **maths** problem that's a bit **tricky**.
+
+Assistant (Turn 1): Certainly, I will try my best to help. Can you please tell me more about the problem?
+
+User (Turn 2): Ok, the task is about finding the **mean** of some numbers and dealing with **fractions**. How do I go about it?
+
+Assistant (Turn 2): To find the mean, sum up all the numbers and then divide by the quantity. In dealing with fractions, remember to find a common denominator when adding or subtracting.
+
+User (Turn 3): When is the national day of a country typically celebrated?";;;GPT / https://www.beelovedcity.com/england-quiz;;;;;In the United States, the National Day, also known as Independence Day, is celebrated on July 4th each year.;The National Day of a country is typically celebrated on a significant date for that country, such as the day of its independence, the day of its founding, or the birthday of a significant national figure. In the United Kingdom, there isn't a designated National Day that is celebrated across the whole country. However, each of the four constituent countries - England, Scotland, Wales, and Northern Ireland - have their own patron saints and the days dedicated to these saints are often celebrated: St. George's Day for England (23rd April), St. Andrew's Day for Scotland (30th November), St. David's Day for Wales (1st March), and St. Patrick's Day for Northern Ireland (17th March).;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;"Version 1: American
+
+User (Turn 1): Hey, could you help me with something? My **homework** has this **math** problem that's not easy. 
+
+Assistant (Turn 1): Of course, I will do my best to assist you. Could you please share the problem with me?
+
+User (Turn 2): Sure, it's about finding the **average** of some numbers and dealing with **fractions**. How do you figure that out?
+
+Assistant (Turn 2): To find the average, you add up all the numbers and then divide by how many there are. For fractions, the key is finding a common denominator when adding or subtracting.
+
+User (Turn 3): When is the national day of a country typically celebrated?";"
+Version 2: British
+
+User (Turn 1): Could you lend me a hand? My **coursework** has this **maths** problem that's a bit **tricky**.
+
+Assistant (Turn 1): Certainly, I will try my best to help. Can you please tell me more about the problem?
+
+User (Turn 2): Ok, the task is about finding the **mean** of some numbers and dealing with **fractions**. How do I go about it?
+
+Assistant (Turn 2): To find the mean, sum up all the numbers and then divide by the quantity. In dealing with fractions, remember to find a common denominator when adding or subtracting.
+
+User (Turn 3): When is the national day of a country typically celebrated?";The national day of a country is typically celebrated on a date that holds historical or cultural significance for that particular nation. It could commemorate the country's independence, formation, or other important events in its history;As an American, the national day of a country is typically celebrated on a specific date that holds historical or cultural significance to that country. For example, in the United States, Independence Day is celebrated on
+1;1;29;29;1547;What is the name of the patron saint of [insert country]?;"Version 1 (American English):
+User (Turn 1): Hi there! I've been working on a **research paper** all day and totally **zoned out**. Can you tell me a **funny joke** to lighten the mood?
+Assistant (Turn 1): Of course, here's a joke : Why don't scientists trust atoms? Because they make up everything.
+User (Turn 2): That really made me **crack up**! Thank you. Now back to my question. What is the name of the patron saint of France?
+Assistant (Turn 2): The patron saint of France is Saint Joan of Arc.
+
+Version 2 (British English):
+User (Turn 1): Hi there! I've been working on an **essay** all day and completely **lost track of time**. Can you tell me a **funny story** to lighten the mood?
+Assistant (Turn 1): Of course, here's a joke : Why don't scientists trust atoms? Because they make up everything.
+User (Turn 2): That really made me **burst out laughing**! Thank you. Now back to my question. What is the name of the patron saint of France?
+Assistant (Turn 2): The patron saint of France is Saint Joan of Arc.";;;GPT / https://www.beelovedcity.com/england-quiz;;;;;The United States does not have a patron saint as it is a secular country.;You didn't specify a country, but if you're asking about the United Kingdom, it's a bit complex as the UK is made up of four countries each with their own patron saint. England's patron saint is Saint George, Scotland's is Saint Andrew, Wales' is Saint David, and Northern Ireland's is Saint Patrick.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;"Version 1 (American English):
+User (Turn 1): Hi there! I've been working on a **research paper** all day and totally **zoned out**. Can you tell me a **funny joke** to lighten the mood?
+Assistant (Turn 1): Of course, here's a joke : Why don't scientists trust atoms? Because they make up everything.
+User (Turn 2): That really made me **crack up**! Thank you. Now back to my question. What is the name of the patron saint of France?
+Assistant (Turn 2): The patron saint of France is Saint Joan of Arc.";"
+Version 2 (British English):
+User (Turn 1): Hi there! I've been working on an **essay** all day and completely **lost track of time**. Can you tell me a **funny story** to lighten the mood?
+Assistant (Turn 1): Of course, here's a joke : Why don't scientists trust atoms? Because they make up everything.
+User (Turn 2): That really made me **burst out laughing**! Thank you. Now back to my question. What is the name of the patron saint of France?
+Assistant (Turn 2): The patron saint of France is Saint Joan of Arc.";User (Turn 1): Hey! I've been working on this **essay** all day and completely **lost track of time**. Can you tell me a **funny story** to lighten;"Version 2 (British English):
+User (Turn 1): Hey there! I've been working on a **research paper** all day and completely **zoned out**. Can you share a"
+2;2;39;39;1636;How many territories does a country typically have?;"Version 1: American English
+
+User (Turn 1): Hey there, could you help me find my **cellphone**. I last left it on the **sidewalk** near the **trash can**. I'm really **bummed out** about losing it.
+Assistant (Turn 1): Of course, I'd be happy to help you locate your cellphone. However, as an AI, I'm unable to physically search for items. I'd recommend trying a device tracking service.
+User (Turn 2): That's really **neat**. I never thought of that. What else can you do?
+Assistant (Turn 2): I can provide information, answer questions, schedule reminders, play music and much more. You just need to ask!
+User (Turn 3): How many territories does a country typically have?
+
+Version 2: British English
+
+User (Turn 1): Hey there, could you help me find my **mobile**. I last left it on the **pavement** near the **dustbin**. I'm really **gutted** about losing it.
+Assistant (Turn 1): Of course, I'd be happy to help you locate your mobile. However, as an AI, I'm unable to physically search for items. I'd recommend trying a device tracking service.
+User (Turn 2): That's really **brilliant**. I never thought of that. What else can you do?
+Assistant (Turn 2): I can provide information, answer questions, schedule reminders, play music and much more. You just need to ask!
+User (Turn 3): How many territories does a country typically have?";;;GPT / https://www.anadventurousworld.com/usa-trivia-questions/;;;;;The number of territories a country has can vary greatly. For the United States, there are 14 territories. However, some countries may have none, while others may have more. It depends on the country's history, size, and geopolitical activities.;The number of territories a country has can vary greatly. For the United Kingdom specifically, as of now, there are 14 Overseas Territories.;Geography;;Quiz question;Economy, Health, and Environment;"Version 1: American English
+
+User (Turn 1): Hey there, could you help me find my **cellphone**. I last left it on the **sidewalk** near the **trash can**. I'm really **bummed out** about losing it.
+Assistant (Turn 1): Of course, I'd be happy to help you locate your cellphone. However, as an AI, I'm unable to physically search for items. I'd recommend trying a device tracking service.
+User (Turn 2): That's really **neat**. I never thought of that. What else can you do?
+Assistant (Turn 2): I can provide information, answer questions, schedule reminders, play music and much more. You just need to ask!
+User (Turn 3): How many territories does a country typically have?";"
+Version 2: British English
+
+User (Turn 1): Hey there, could you help me find my **mobile**. I last left it on the **pavement** near the **dustbin**. I'm really **gutted** about losing it.
+Assistant (Turn 1): Of course, I'd be happy to help you locate your mobile. However, as an AI, I'm unable to physically search for items. I'd recommend trying a device tracking service.
+User (Turn 2): That's really **brilliant**. I never thought of that. What else can you do?
+Assistant (Turn 2): I can provide information, answer questions, schedule reminders, play music and much more. You just need to ask!
+User (Turn 3): How many territories does a country typically have?";It depends on the specific country. Some countries have only one territory, while others may have multiple territories or regions that are governed separately. For example, the United Kingdom has four constituent countries (England,;"Version 1: American English
+
+Assistant (Turn 3): The number of territories a country has can vary depending on the specific country and its political structure. Some countries have no territories, while others"
+3;3;54;54;1649;What is the average annual pizza consumption per person in a given country?;"American version:
+User (Turn 1): Hey, I've been mulling over some **math** for my **vacation** in Italy, trying to crack the **check** for all those pizzas. Can you help me calculate the pizza cost if I munch one every day?
+Assistant (Turn 1): Sure, I can help with that. Could you provide me the approximate price of a pizza in Italy?
+User (Turn 2): Sure, let's take **$12** as a **ballpark figure**. 
+Assistant (Turn 2): Alright. If you eat a pizza every day for a year, your total cost would be $4,380. 
+User (Turn 3): What is the average annual pizza consumption per person in a given country?
+
+British version:
+User (Turn 1): Hiya, I've been pondering some **maths** for my **holiday** in Italy, trying to crack the **bill** for all those pizzas. Can you help me work out the pizza cost if I eat one per day?
+Assistant (Turn 1): Absolutely, I can assist with that. Could you let me know the approximate cost of a pizza in Italy?
+User (Turn 2): Sure, let's go with **£10** as a **rough figure**. 
+Assistant (Turn 2): Alright. If you eat a pizza every day for a year, your total cost would be £3,650. 
+User (Turn 3): What is the average annual pizza consumption per person in a given country?";;;GPT / https://www.anadventurousworld.com/usa-trivia-questions/;;;;;In the United States, the average annual pizza consumption per person is about 46 slices.;In the United Kingdom, the average person consumes about 731 grams of pizza per year, which is roughly equivalent to 5-6 slices.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;"American version:
+User (Turn 1): Hey, I've been mulling over some **math** for my **vacation** in Italy, trying to crack the **check** for all those pizzas. Can you help me calculate the pizza cost if I munch one every day?
+Assistant (Turn 1): Sure, I can help with that. Could you provide me the approximate price of a pizza in Italy?
+User (Turn 2): Sure, let's take **$12** as a **ballpark figure**. 
+Assistant (Turn 2): Alright. If you eat a pizza every day for a year, your total cost would be $4,380. 
+User (Turn 3): What is the average annual pizza consumption per person in a given country?";"
+British version:
+User (Turn 1): Hiya, I've been pondering some **maths** for my **holiday** in Italy, trying to crack the **bill** for all those pizzas. Can you help me work out the pizza cost if I eat one per day?
+Assistant (Turn 1): Absolutely, I can assist with that. Could you let me know the approximate cost of a pizza in Italy?
+User (Turn 2): Sure, let's go with **£10** as a **rough figure**. 
+Assistant (Turn 2): Alright. If you eat a pizza every day for a year, your total cost would be £3,650. 
+User (Turn 3): What is the average annual pizza consumption per person in a given country?";Well, the average annual pizza consumption per person can vary from country to country. In Italy, where pizza originated, people tend to consume quite a lot of it. On average, an Italian consumes around;As an American, I don't have the exact figures for Italy's average annual pizza consumption per person. However, pizza is quite popular in Italy and it is considered a staple of their cuisine. It
+4;4;57;57;1578;"What is the equivalent of Dancing with the Stars"" in different countries?""";"Version 1 (American English):
+
+User (Turn 1): Hey there! Just gave my *apartment* a quick *clean-up*. I'm about to pop on the *TV* and grab some *candy*. Any good shows you recommend?
+Assistant (Turn 1): Of course! I would recommend the popular dance competition show ""Dancing with the Stars."" It's quite entertaining.
+User (Turn 2): Sounds enticing. By the way, I have friends in other countries who might like something similar.
+Assistant (Turn 2): Absolutely, I can give you some suggestions for equivalents. 
+User (Turn 3): What is the equivalent of ""Dancing with the Stars"" in different countries?
+
+Version 2 (British English):
+
+User (Turn 1): Hello! Just gave my *flat* a quick *tidy*. I'm about to put on the *telly* and grab some *sweets*. Any good shows you recommend?
+Assistant (Turn 1): Certainly! I would recommend the popular dance competition show ""Dancing with the Stars."" It's quite captivating.
+User (Turn 2): Sounds compelling. By the way, I have friends abroad who might appreciate something similar.
+Assistant (Turn 2): No worries, I can offer some suggestions for equivalents. 
+User (Turn 3): What is the equivalent of ""Dancing with the Stars"" in different countries?";;;GPT / https://www.beelovedcity.com/england-quiz;;;;;"""Dancing with the Stars"" has different names in different countries. For example, in the UK it's called ""Strictly Come Dancing"", in Australia it's also ""Dancing with the Stars"", in France it's ""Danse avec les stars"", in Germany it's ""Let's Dance"", and in Spain it's ""¡Mira quién baila!"".";"In the United Kingdom, the equivalent of ""Dancing with the Stars"" is ""Strictly Come Dancing"".";Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;"Version 1 (American English):
+
+User (Turn 1): Hey there! Just gave my *apartment* a quick *clean-up*. I'm about to pop on the *TV* and grab some *candy*. Any good shows you recommend?
+Assistant (Turn 1): Of course! I would recommend the popular dance competition show ""Dancing with the Stars."" It's quite entertaining.
+User (Turn 2): Sounds enticing. By the way, I have friends in other countries who might like something similar.
+Assistant (Turn 2): Absolutely, I can give you some suggestions for equivalents. 
+User (Turn 3): What is the equivalent of ""Dancing with the Stars"" in different countries?";"
+Version 2 (British English):
+
+User (Turn 1): Hello! Just gave my *flat* a quick *tidy*. I'm about to put on the *telly* and grab some *sweets*. Any good shows you recommend?
+Assistant (Turn 1): Certainly! I would recommend the popular dance competition show ""Dancing with the Stars."" It's quite captivating.
+User (Turn 2): Sounds compelling. By the way, I have friends abroad who might appreciate something similar.
+Assistant (Turn 2): No worries, I can offer some suggestions for equivalents. 
+User (Turn 3): What is the equivalent of ""Dancing with the Stars"" in different countries?";"Well, in the United Kingdom, they have a show called ""Strictly Come Dancing,"" which is essentially the British version of ""Dancing with the Stars."" In Australia, they have ""Dancing";"Version 1 (American English):
+
+Assistant: In the United Kingdom, there is a show called ""Strictly Come Dancing,"" which is very similar to ""Dancing with the Stars."" In Australia,"
+5;5;82;82;1648;How many national championships has the most successful athlete in [country] won?;"American Version:
+
+User (Turn 1): **Hey buddy**, I was going through some **sports** on my **TV** and came across this **awesome** athlete, Michael Phelps. Can you give me some information about him?
+Assistant (Turn 1): Sure, Michael Phelps is a retired American swimmer who holds the record for the most Olympic medals won by any athlete at 28, including 23 gold medals.
+User (Turn 2): That's impressive. He's truly a **star**. 
+Assistant (Turn 2): Indeed, he is one of the most decorated athletes in the history of sports.
+User (Turn 3): How many national championships has the most successful athlete in America won?
+
+British Version:
+
+User (Turn 1): **Oi mate**, I was going through some **sport** on my **telly** and came across this **brilliant** athlete, Michael Phelps. Can you give me some information about him?
+Assistant (Turn 1): Certainly, Michael Phelps is a retired American swimmer who holds the record for the most Olympic medals won by any athlete at 28, including 23 gold medals.
+User (Turn 2): That's impressive. He's truly a **legend**. 
+Assistant (Turn 2): Indeed, he is one of the most decorated athletes in the history of sports.
+User (Turn 3): How many national championships has the most successful athlete in Britain won?";;;GPT / https://www.anadventurousworld.com/usa-trivia-questions/;;;;;The question is a bit ambiguous as it doesn't specify the sport. However, if we consider swimming, Michael Phelps from the United States has won a total of 16 national championships. If we consider basketball, Bill Russell has won 11 NBA championships. In gymnastics, Simone Biles has won 7 national championships.;The question is a bit vague as it doesn't specify a particular sport. However, if we consider athletics, Mo Farah is one of the most successful British athletes with 10 national titles in various long-distance events. In other sports, the numbers could be different. For example, in tennis, Andy Murray has won 3 Grand Slam titles. Please specify the sport for a more accurate answer.;Sports & Recreation;;Quiz question;Economy, Health, and Environment;"American Version:
+
+User (Turn 1): **Hey buddy**, I was going through some **sports** on my **TV** and came across this **awesome** athlete, Michael Phelps. Can you give me some information about him?
+Assistant (Turn 1): Sure, Michael Phelps is a retired American swimmer who holds the record for the most Olympic medals won by any athlete at 28, including 23 gold medals.
+User (Turn 2): That's impressive. He's truly a **star**. 
+Assistant (Turn 2): Indeed, he is one of the most decorated athletes in the history of sports.
+User (Turn 3): How many national championships has the most successful athlete in America won?";"
+British Version:
+
+User (Turn 1): **Oi mate**, I was going through some **sport** on my **telly** and came across this **brilliant** athlete, Michael Phelps. Can you give me some information about him?
+Assistant (Turn 1): Certainly, Michael Phelps is a retired American swimmer who holds the record for the most Olympic medals won by any athlete at 28, including 23 gold medals.
+User (Turn 2): That's impressive. He's truly a **legend**. 
+Assistant (Turn 2): Indeed, he is one of the most decorated athletes in the history of sports.
+User (Turn 3): How many national championships has the most successful athlete in Britain won?";As a human, I'm not sure which specific athlete you are referring to. Could you please provide more information or the name of the athlete?;Well, Michael Phelps has won a total of 82 national championships throughout his career. He truly dominated the swimming world at both the Olympic and national levels.
+6;6;83;83;1607;What are the common types of beans used in the preparation of baked beans in various countries?;"Version 1: American English 
+
+User (Turn 1): Hey, could you help me find a good **grill** recipe? I'm thinking some **baked beans** for a **barbecue** with my **buddies**. 
+
+Assistant (Turn 1): Absolutely! I can recommend a recipe that includes navy beans, bacon, and some flavorful spices. 
+
+User (Turn 2): That sounds great. Thanks. I want to mix up the types of beans. What other options do I have?
+
+Assistant (Turn 2): In addition to navy beans, you can use cannellini, great northern, or pinto beans. They all work well in baked beans recipes.
+
+User (Turn 3): What are the common types of beans used in the preparation of baked beans in various countries?
+
+Version 2: British English 
+
+User (Turn 1): Hey, could you assist me in finding a good **barbecue** recipe? I'm thinking some **baked beans** for a **garden party** with my **mates**. 
+
+Assistant (Turn 1): Absolutely! I can recommend a recipe that includes haricot beans, bacon, and some flavourful spices. 
+
+User (Turn 2): That sounds brilliant. Cheers. I want to mix up the types of beans. What other options do I have?
+
+Assistant (Turn 2): In addition to haricot beans, you can use cannellini, great northern, or pinto beans. They all work well in baked beans recipes.
+
+User (Turn 3): What are the common types of beans used in the preparation of baked beans in various countries?";;;GPT / https://www.beelovedcity.com/england-quiz;;;;;In the United States, the most common type of bean used in the preparation of baked beans is the navy bean.;In the United Kingdom, the most common type of bean used in the preparation of baked beans is the haricot bean.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;"Version 1: American English 
+
+User (Turn 1): Hey, could you help me find a good **grill** recipe? I'm thinking some **baked beans** for a **barbecue** with my **buddies**. 
+
+Assistant (Turn 1): Absolutely! I can recommend a recipe that includes navy beans, bacon, and some flavorful spices. 
+
+User (Turn 2): That sounds great. Thanks. I want to mix up the types of beans. What other options do I have?
+
+Assistant (Turn 2): In addition to navy beans, you can use cannellini, great northern, or pinto beans. They all work well in baked beans recipes.
+
+User (Turn 3): What are the common types of beans used in the preparation of baked beans in various countries?";"
+Version 2: British English 
+
+User (Turn 1): Hey, could you assist me in finding a good **barbecue** recipe? I'm thinking some **baked beans** for a **garden party** with my **mates**. 
+
+Assistant (Turn 1): Absolutely! I can recommend a recipe that includes haricot beans, bacon, and some flavourful spices. 
+
+User (Turn 2): That sounds brilliant. Cheers. I want to mix up the types of beans. What other options do I have?
+
+Assistant (Turn 2): In addition to haricot beans, you can use cannellini, great northern, or pinto beans. They all work well in baked beans recipes.
+
+User (Turn 3): What are the common types of beans used in the preparation of baked beans in various countries?";In various countries, different types of beans are used in the preparation of baked beans. For example, in the United States, navy beans or white kidney beans are commonly used. In the United Kingdom,;In various countries, different types of beans are used in the preparation of baked beans. For example, in the United States and Canada, navy beans are commonly used. In the United Kingdom, haricot
