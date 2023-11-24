@@ -7,13 +7,13 @@ df = pd.read_csv('data_merged_firstPerson.csv', sep=';')
 chars = pd.read_csv('characters_firstPerson.csv', sep=';')
 
 
-for index, row in df[541:].iterrows():
+for index, row in df[1020:].iterrows():
     if row.source in ['WVS', 'GAS']:
         content = row.question + 'Choose one of the answer options: ' + row.options[1:-1] 
     else:
         content = row.question
     # character selection
-    character = chars[chars['topic'] == row.category_group]['american_character'].iloc[0]
+    character = chars[chars['topic'] == row.category_group]['british_character'].iloc[0]
 
     response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo-1106",
@@ -35,7 +35,7 @@ for index, row in df[541:].iterrows():
     )
     print(index)
     print(response['choices'][0]['message']['content'])
-    df.at[index,'model_answer_us'] = response['choices'][0]['message']['content']
+    df.at[index,'model_answer_uk'] = response['choices'][0]['message']['content']
     df.to_csv('data_merged_firstPerson.csv', sep=';')
 
 
