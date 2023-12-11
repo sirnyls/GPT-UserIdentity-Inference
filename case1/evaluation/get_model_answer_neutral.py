@@ -5,7 +5,7 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 df = pd.read_csv('../data/data_merged.csv', sep=';')
 
 
-for index, row in df[692:].iterrows():
+for index, row in df.iterrows():
     if row.source in ['WVS', 'GAS']:
         content = row.question + 'Choose one of the answer options: ' + row.options[1:-1] 
     else:
