@@ -22,7 +22,7 @@ def keyword_matching(short_sentence, long_sentence):
 
     short_words = set(remove_punctuation(short_sentence).lower().split())
     long_words = set(remove_punctuation(long_sentence).lower().split())
-    return any(word in long_words for word in short_words)
+    return all(word in long_words for word in short_words)
 
 def calculate_similarity(data, language):
     similarity_scores = []
