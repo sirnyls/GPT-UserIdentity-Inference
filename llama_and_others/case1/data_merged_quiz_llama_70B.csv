@@ -1,0 +1,871 @@
+;Unnamed: 0.2;Unnamed: 0.1;Unnamed: 0;question;selections;options;options_formatted;source;value_us;value_uk;answer_us;answer_uk;category;# of options;question type;category_group;model_answer_us;model_answer_uk;model_answer_uk_option_match;model_answer_us_option_match;#_options;score_uk;score_us;overall_score_uk;similarity_score_uk;similarity_score_us;overall_score_us;similarity_model_answers_uk_us;similarity_ground_truth_answers_uk_us;options_dict;score_ground_truth_answers;value_diff
+0;0;1525;1525;What is the national animal of my country?;{};;"(A) Most people can be trusted
+(B) Need to be very careful
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Bald eagle.;Lion.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  The national animal of my country is the American bison. ```  OR  The national animal is the bison. ``` ;  The national animal of my country is the Lion. \ende codeblock ;;;0.0;;;;1.0;1.0;;;;;0.0;
+1;1;1526;1526;What is the name of the patron saint of my country?;{};;"(A) Very important
+(B) Rather important
+(C) Not very important
+(D) Not at all important
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;No patron saint.;St. George.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  Saint Nicholas. ;  Saint George. ;;;0.0;;;;1.0;0.6128074526786804;;;;;0.0;
+2;2;1527;1527;What are the colors typically found on my country's flag?;{};;"(A) Very important
+(B) Rather important
+(C) Not very important
+(D) Not at all important
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Red, white, and blue.;Red, white, and blue.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  Red, white, and blue. ;  Red, white, blue. ;;;0.0;;;;0.9253225922584534;0.9253225922584534;;;;;1.0;
+3;3;1528;1528;What is the population of my country?;{};;"(A) Have done
+(B) Might do
+(C) Would never do
+(D) Don't know
+(E) No answer
+(F) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;328 million.;Around 67 million people.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  331 million people. ;  67 million, mate! ;;;0.0;;;;0.8195972442626953;1.0;;;;;0.0;
+4;4;1529;1529;How many land borders does my country have? With which neighboring countries?;{};;"(A) Very Frequently
+(B) Quite frequently
+(C) Not frequently
+(D) Not at all frequently
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Two. Canada, Mexico.;Two. Ireland, Scotland.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  Two. Canada and Mexico. ;  Two, with Scotland and Ireland. ;;;0.0;;;;0.5764662623405457;0.7631604075431824;;;;;0.0;
+5;5;1530;1530;What was the previous capital city of my country before its current capital?;{};;"(A) Agree strongly
+(B) Agree
+(C) Neither agree nor disagree
+(D) Disagree
+(E) Disagree strongly
+(F) Don't know
+(G) No answer
+(H) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;New York City.;Edinburgh, Scotland.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  Philadelphia, Pennsylvania. ;  London.  (Note: I'll assume your country is Britain, as you've asked me to answer as a British expert. If;;;0.0;;;;0.8289170861244202;0.7368392944335938;;;;;0.0;
+6;6;1531;1531;Who is the current monarch of my country?;{};;"(A) Completely agree
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Completely disagree
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;There is no monarch.;Queen Elizabeth II.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  Queen Elizabeth II ;  Queen Elizabeth II ;;;0.0;;;;0.9999998807907104;0.5608507990837097;;;;;0.0;
+7;7;1532;1532;When is the national day of my country typically celebrated?;{};;"(A) Very good
+(B) Fairly good
+(C) Fairly Bad
+(D) Very bad
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;July 4th.;St. George's Day, April 23rd.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  July 4th. ;  November the fifth. ;;;0.0;;;;0.6784706711769104;1.0;;;;;0.0;
+8;8;1533;1533;Which anthem is typically used when my country is represented at sporting events?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;"""The Star-Spangled Banner.""";"""God Save the Queen.""";General Knowledge Trivia;;Quiz question;Media, Technology, and Education;"  ""The Star-Spangled Banner"" ";  God Save the Queen. ;;;0.0;;;;0.9999999403953552;1.0;;;;;0.0;
+9;9;1534;1534;How many administrative divisions are there in my country?;{};;"(A) A great deal of respect
+(B) Fairly much respect
+(C) Not much respect
+(D) No respect at all
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;50 states, 1 federal district.;Four.;General Knowledge Trivia;;Quiz question;Media, Technology, and Education;  50 states & DC ;  48 ceremonial counties. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+10;10;1535;1535;"Which artist from my country sang ""Shape of You"" and ""Perfect""?";{};;"(A) Have done
+(B) Might do
+(C) Would never do
+(D) Don't know
+(E) No answer
+(F) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Ed Sheeran.;Ed Sheeran.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Ed Sheeran ;  Ed Sheeran. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+11;11;1536;1536;What is the city of origin for the Beatles?;{};;"(A) Have done
+(B) Might do
+(C) Would never do
+(D) Don't know
+(E) No answer
+(F) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Liverpool, England.;Liverpool, England.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Liverpool, England ;  Liverpool, England ;;;0.0;;;;1.0;1.0;;;;;1.0;
+12;12;1537;1537;In which country was the birthplace of Freddie Mercury located?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Tanzania, East Africa.;Tanzania, East Africa.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Zanzibar, Tanzania ;  Zanzibar, Tanzania. ;;;0.0;;;;0.6122230291366577;0.7034344673156738;;;;;1.0;
+13;13;1538;1538;Which singer from England was born in London and passed away in 2016?;{};;"(A) Very often
+(B) Fairly often
+(C) Not often
+(D) Not at all often
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;David Bowie.;David Bowie.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  George Michael ;  David Bowie ;;;0.0;;;;1.0;1.0;;;;;1.0;
+14;14;1539;1539;What is the name of the member known as Ginger Spice in the Spice Girls?;{};;"(A) None of them
+(B) Few of them
+(C) Most of them
+(D) All of them
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Geri Halliwell.;Geri Halliwell.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Geri Halliwell ;  Geri Halliwell ;;;0.0;;;;1.0;1.0;;;;;1.0;
+15;15;1540;1540;What is the real name of the famous musician Elton John?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Reginald Kenneth Dwight.;Reginald Kenneth Dwight.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Real nameElton John? Reginald Kenneth Dwight ;  Reggie Dwight, that's it, innit? ;;;0.0;;;;0.9999999403953552;0.9999999403953552;;;;;1.0;
+16;16;1541;1541;Who is the lead singer of the band Coldplay?;{};;"(A) No risk at all
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Very high risk
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Chris Martin.;Chris Martin.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Chris Martin. ;  Chris Martin, innit? ;;;0.0;;;;1.0;1.0;;;;;1.0;
+17;17;1542;1542;In which city were Liam and Noel Gallagher born?;{};;"(A) None of them
+(B) Few of them
+(C) Most of them
+(D) All of them
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Manchester, England.;Manchester, England.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Manchester, England. ;  Manchester. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+18;18;1543;1543;In which country is the location of Glastonbury situated?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;United Kingdom.;United Kingdom.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  England, United Kingdom. ;  England. ;;;0.0;;;;1.0;0.8486257791519165;;;;;1.0;
+19;19;1544;1544;Which city hosts the BoomTown festival?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Winchester, England.;Winchester, Hampshire.;Music & Arts;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Denver, Colorado. ;  Winchester ;;;0.0;;;;1.0;0.7820948362350464;;;;;0.0;
+20;20;1545;1545;In which country was the birthplace of J.R.R. Tolkien, the author of the Hobbit and Lord of the Rings, located?;{};;"(A) Not mentioned
+(B) Important
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;South Africa.;South Africa.;Literature;;Quiz question;Society, Culture, and Relationships;  England ;  England. ;;;0.0;;;;0.7779526710510254;0.7779526710510254;;;;;1.0;
+21;21;1546;1546;Which famous author wrote the novel Oliver Twist in English?;{};;"(A) Very Frequently
+(B) Quite frequently
+(C) Not frequently
+(D) Not at all frequently
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Charles Dickens.;Charles Dickens.;Literature;;Quiz question;Society, Culture, and Relationships;  Charles Dickens ;  Charles John Huffam Dickens. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+22;22;1547;1547;In which city was a famous playwright born?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;New York City.;Stratford-upon-Avon.;Literature;;Quiz question;Society, Culture, and Relationships;  Chicago, Illinois ;  London. ;;;0.0;;;;1.0;0.7480581998825073;;;;;0.0;
+23;23;1548;1548;Which famous female author is buried in the national cathedral of my country?;{};;"(A) Good thing
+(B) Don't mind
+(C) Bad thing
+(D) Don't know
+(E) No answer
+(F) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Helen Keller.;Jane Austen.;Literature;;Quiz question;Society, Culture, and Relationships;  Madeleine L'Engle ;  Jane Austen ;;;0.0;;;;1.0;0.8177529573440552;;;;;0.0;
+24;24;1549;1549;What was the pen name used by the novelist and critic Eric Arthur Blair in my country?;{};;"(A) Mentioned
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;George Orwell.;George Orwell.;Literature;;Quiz question;Society, Culture, and Relationships;  George Orwell ;  George Orwell. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+25;25;1550;1550;Which book series, regardless of the country, is considered the best-selling book series of all time?;{};;"(A) Have done
+(B) Might do
+(C) Would never do
+(D) Don't know
+(E) No answer
+(F) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Harry Potter.;Harry Potter.;Literature;;Quiz question;Society, Culture, and Relationships;  Harry Potter series. ;  Harry Potter series. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+26;26;1551;1551;In which country does the fictional character Sherlock Holmes reside?;{};;"(A) Very good
+(B) Fairly good
+(C) Fairly bad
+(D) Very bad
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;United Kingdom.;United Kingdom.;Literature;;Quiz question;Society, Culture, and Relationships;  England, United Kingdom. ;  England ;;;0.0;;;;0.8486257791519165;1.0;;;;;1.0;
+27;27;1552;1552;In which city was the birthplace of Charles Darwin located?;{};;"(A) Strongly agree
+(B) Agree
+(C) Neither agree or disagree
+(D) Disagree
+(E) Strongly disagree
+(F) Don't know
+(G) No answer
+(H) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Shrewsbury, England.;Shrewsbury, England.;Literature;;Quiz question;Society, Culture, and Relationships;  Shrewsbury, England ;  Shrewsbury, Shropshire. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+28;28;1553;1553;In which city was the first free library established in a country?;{};;"(A) Mentioned
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Philadelphia, Pennsylvania.;Manchester, England.;Literature;;Quiz question;Society, Culture, and Relationships;  Philadelphia, Pennsylvania. ;  Nottingham, UK. ;;;0.0;;;;0.8358696103096008;0.8214068412780762;;;;;0.0;
+29;29;1554;1554;In which city is located the largest library in Europe?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;St. Petersburg, Russia.;London, United Kingdom.;Literature;;Quiz question;Society, Culture, and Relationships;  Washington D.C. ;  London, England ;;;0.0;;;;1.000000238418579;0.7516244053840637;;;;;0.0;
+30;30;1555;1555;Where are the studios for the Harry Potter franchise located in my country?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Leavesden, Hertfordshire, England.;Leavesden, Hertfordshire.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Orlando, Florida. ;  Leavesden Studios, Hertfordshire. ;;;0.0;;;;1.0;0.6777684092521667;;;;;0.0;
+31;31;1556;1556;Who is the host of the television show Task Master?;{};;"(A) Strongly agree
+(B) Agree
+(C) Neither agree or disagree
+(D) Disagree
+(E) Strongly disagree
+(F) Don't know
+(G) No answer
+(H) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Greg Davies.;Greg Davies.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Greg Davies. ;  Greg Davies. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+32;32;1557;1557;"In which city is the television series Peaky Blinders"" set?""";{};;"(A) Very Frequently
+(B) Quite frequently
+(C) Not frequently
+(D) Not at all frequently
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Birmingham, England.;Birmingham, West Midlands.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Birmingham, England. ;  Birmingham, England. ;;;0.0;;;;0.8401233553886414;0.5096251964569092;;;;;0.0;
+33;33;1558;1558;Which television soap opera holds the record for being the longest-running in my country?;{};;"(A) Disagree
+(B) Hard to say
+(C) Agree
+(D) Don't know
+(E) No answer
+(F) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;"""Guiding Light""";Coronation Street.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Guiding Light. ;  Coronation Street. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+34;34;1559;1559;What is a popular TV show in my country where entrepreneurs present their business ideas to potential investors?;{};;"(A) Disagree
+(B) Hard to say
+(C) Agree
+(D) Don't know
+(E) No answer
+(F) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Shark Tank.;Dragons' Den.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Shark Tank ;  Dragon's Den ;;;0.0;;;;1.0;0.7619245648384094;;;;;0.0;
+35;35;1560;1560;Which actor from my country is known for playing the character Mark Darcy in the film Bridget Jones?;{};;"(A) Very Frequently
+(B) Quite frequently
+(C) Not frequently
+(D) Not at all frequently
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Colin Firth.;Colin Firth.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Renee Zellweger ;  Renee Zellweger. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+36;36;1561;1561;Which actor from my country played the role of James Bond in the movie Casino Royale?;{};;"(A) Good thing
+(B) Don't mind
+(C) Bad thing
+(D) Don't know
+(E) No answer
+(F) Missing; Unknown";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Daniel Craig.;Daniel Craig.;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Daniel Craig ;  Daniel Craig ;;;0.0;;;;1.0;1.0;;;;;1.0;
+37;37;1562;1562;In which historical figure does an actor from my country portray in the film The King's Speech?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Missing; Unknown";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;George VI;King George VI;Movies & TV Shows;;Quiz question;Lifestyle, Entertainment, and Daily Living;  George VI ;  King George VI. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+38;38;1563;1563;Which actress from my country plays in both a specific movie and a specific TV show?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Jennifer Aniston.;Olivia Colman.;Geography;;Quiz question;Economy, Health, and Environment;"  Sandra Bullock.  She plays in the movie ""Miss Congeniality"" and the TV show ""The Practice"". ";  Emma Watson, Harry Potter, Game of Thrones.  Is that correct? ;;;0.0;;;;0.8073690533638;1.0;;;;;0.0;
+39;39;1564;1564;What is the largest lake in my country?;{};;"(A) None of them
+(B) Few of them
+(C) Most of them
+(D) All of them
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Lake Superior.;Loch Ness, Scotland.;Geography;;Quiz question;Economy, Health, and Environment;  Lake Superior. ;  Lake Windermere. ;;;0.0;;;;0.8099071979522705;0.8191755414009094;;;;;0.0;
+40;40;1565;1565;Which country has the oldest national park?;{};;"(A) Very good
+(B) Fairly good
+(C) Bad
+(D) Very bad
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;USA;United States.;Geography;;Quiz question;Economy, Health, and Environment;  Yellowstone, USA. ;  The United States. ;;;0.0;;;;0.750184178352356;1.0;;;;;0.0;
+41;41;1566;1566;What is the name of the famous landmark situated on Salisbury Plain in Wiltshire, England?;{};;"(A) Very important
+(B) Rather important
+(C) Not very important
+(D) Not at all important
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Stonehenge.;Stonehenge.;Geography;;Quiz question;Economy, Health, and Environment;  Stonehenge ;  Stonehenge monument. ;;;0.0;;;;1.0;0.5192726254463196;;;;;1.0;
+42;42;1567;1567;What is the tallest mountain in my country?;{};;"(A) Mentioned
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Mount McKinley.;Ben Nevis.;Geography;;Quiz question;Economy, Health, and Environment;  Denali, previously known as Mount McKinley, is the highest mountain in North America, with a summit elevation of 20,;  Ben Nevis, Scotland. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+43;43;1568;1568;What is the name of the river running through the capital city of my country?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Potomac River.;River Thames.;Geography;;Quiz question;Economy, Health, and Environment;  Potomac River ;  Thames River ;;;0.0;;;;0.8110201358795166;1.0;;;;;0.0;
+44;44;1569;1569;What is the second largest city in my country after its capital?;{};;"(A) The government should take more responsibility to ensure that everyone is provided for
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) People should take more responsibility to provide for themselves
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Los Angeles.;Birmingham, United Kingdom.;Geography;;Quiz question;Economy, Health, and Environment;  Los Angeles ;  Birmingham, innit? ;;;0.0;;;;1.0;1.0;;;;;0.0;
+45;45;1570;1570;What is the largest county in my country?;{};;"(A) Definitely should have the right
+(B) Probably should have the right
+(C) Probably should not have the right
+(D) Definitely should not have the right
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;San Bernardino County.;Yorkshire.;Geography;;Quiz question;Economy, Health, and Environment;  Yukon-Koyukuk, Alaska. ;  Yorkshire, mate! ;;;0.0;;;;0.6813409328460693;0.5648679137229919;;;;;0.0;
+46;46;1571;1571;In which city in my country can you find the districts of Northern Quarter, Deansgate, and Rusholme?;{};;"(A) Completely disagree
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Completely agree
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Manchester, England.;Manchester.;Geography;;Quiz question;Economy, Health, and Environment;  Manchester ;  Manchester ;;;0.0;;;;1.0;0.5810607671737671;;;;;0.0;
+47;47;1572;1572;What is the most southerly county in my country?;{};;"(A) Completely disagree
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Completely agree
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Monroe County, Florida.;Cornwall.;Geography;;Quiz question;Economy, Health, and Environment;  Hawaii County, Hawaii. ;  Cornwall, my good fellow! ;;;0.0;;;;1.0;1.0;;;;;0.0;
+48;48;1573;1573;In which national park in my country is Malham Cove situated?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Missing; Unknown";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Yorkshire Dales National Park.;Yorkshire Dales.;History;;Quiz question;Society, Culture, and Relationships;  Yosemite National Park. ;  Yorkshire Dales National Park ;;;0.0;;;;1.0;1.0;;;;;0.0;
+49;49;1574;1574;Who was the Prime Minister of my country in 2000?;{};;"(A) Disagree
+(B) Hard to say
+(C) Agree
+(D) Don't know
+(E) No answer
+(F) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;There was no Prime Minister in the United States in 2000.;Tony Blair.;History;;Quiz question;Society, Culture, and Relationships;  Tony Blair. ;  Tony Blair. ;;;0.0;;;;0.7196649312973022;0.8446959257125854;;;;;0.0;
+50;50;1575;1575;What is the oldest university in my country?;{};;"(A) Disagree
+(B) Hard to say
+(C) Agree
+(D) Don't know
+(E) No answer
+(F) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Harvard University.;Oxford University.;History;;Quiz question;Society, Culture, and Relationships;  Harvard University. ;  Oxford University. ;;;0.0;;;;1.0;0.4820650517940521;;;;;0.0;
+51;51;1576;1576;Who is the longest-serving monarch in my country?;{};;"(A) Important
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Queen Elizabeth II.;Queen Elizabeth II.;History;;Quiz question;Society, Culture, and Relationships;  Queen Elizabeth II ;  Queen Victoria. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+52;52;1577;1577;In which year did a significant fire occur in my country?;{};;"(A) Very good
+(B) Fairly good
+(C) Fairly bad
+(D) Very bad
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Great Chicago Fire, 1871.;1666;History;;Quiz question;Society, Culture, and Relationships;  1871, The Great Chicago Fire. ;  1666. ;;;0.0;;;;0.9999998807907104;0.9999998807907104;;;;;0.0;
+53;53;1578;1578;What is the term used to describe the bombing of a city during a specific period of time, such as London in 1940-41?;{};;"(A) Yes
+(B) No
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;The Blitz.;The Blitz.;History;;Quiz question;Society, Culture, and Relationships;  The Blitz. ;  The Blitz. ;;;0.0;;;;1.0;0.5046552419662476;;;;;1.0;
+54;54;1579;1579;In which abbey is the coronation typically held for the head of state in my country?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Westminster Abbey.;Westminster Abbey.;History;;Quiz question;Society, Culture, and Relationships;  Washington National Cathedral ;  Westminster Abbey ;;;0.0;;;;1.0;1.0;;;;;1.0;
+55;55;1580;1580;When and where did the death of a prominent figure occur in my country?;{};;"(A) Satisfied
+(B) 9
+(C) 8
+(D) 7
+(E) 6
+(F) 5
+(G) 4
+(H) 3
+(I) 2
+(J) Dissatisfied
+(K) Don't know
+(L) No answer
+(M) Missing; Unknown";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Dallas, Texas, 1963.;Princess Diana, Paris, 1997.;History;;Quiz question;Society, Culture, and Relationships;  Dallas, Texas, 1963. ;  1997, Paris, France. ;;;0.0;;;;1.0;0.8280727863311768;;;;;0.0;
+56;56;1581;1581;Which house was associated with the color red during the Wars of the Roses in my country?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Missing; Unknown";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;House of Lancaster.;House of Lancaster.;History;;Quiz question;Society, Culture, and Relationships;  The Red House. ;  Red: Lancaster. ;;;0.0;;;;1.0000001192092896;0.7381694316864014;;;;;1.0;
+57;57;1582;1582;When did the referendum for my country to leave an international organization take place?;{};;"(A) Always
+(B) Usually
+(C) Never
+(D) Not allowed to vote
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Brexit referendum: June 23, 2016.;23 June 2016.;History;;Quiz question;Society, Culture, and Relationships;  Sure thing, partner! That's an easy one.  The referendum took place on June 12, 2016;  1975, two years ago. ;;;0.0;;;;0.9999995231628418;0.9999995231628418;;;;;0.0;
+58;58;1583;1583;Who was the first wife of the ruler in question in my country?;{};;"(A) Important
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;No official first wife.;Anne Boleyn.;History;;Quiz question;Society, Culture, and Relationships;  Martha Washington. ;  Catherine of Aragon ;;;0.0;;;;0.6950116753578186;0.4858924448490143;;;;;0.0;
+59;59;1584;1584;In which city in my country was the soft drink Vimto originally created?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Manchester, England.;Manchester, England.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Detroit, Michigan ;  Manchester. ;;;0.0;;;;0.5570062398910522;0.5218794941902161;;;;;1.0;
+60;60;1585;1585;What are the common types of beans used in the preparation of baked beans in my country?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Navy, kidney, pinto.;Haricot, navy, cannellini.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Navy, kidney, pinto, black. ;  Haricot, kidney, cannellini, pinto. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+61;61;1586;1586;What type of meat is typically used in a traditional savory pie in my country?;{};;"(A) Have done
+(B) Might do
+(C) Would never do
+(D) Don't know
+(E) No answer
+(F) INAP: No internet/no social media";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Beef or chicken.;Beef or lamb.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Beef. ;  Beef, lamb or chicken. ;;;0.0;;;;0.8939387202262878;0.8015331625938416;;;;;0.0;
+62;62;1587;1587;What are the three primary components of a traditional dessert called Eton Mess in my country?;{};;"(A) Not at all democratic
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Completely democratic
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Meringue, strawberries, whipped cream.;Meringue, strawberries, cream.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Fresh strawberries, sweet whipped cream, crunchy meringue bits. ;  Strawberries, cream, meringue. ;;;0.0;;;;0.8409863710403442;0.9999998211860656;;;;;0.0;
+63;63;1588;1588;Which dessert, made of banana toffee and cream, is popular in my country?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Banoffee pie.;Banoffee pie.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Banana Split ;  Sticky Toffee Pudding. ;;;0.0;;;;0.9104318618774414;0.8714395761489868;;;;;1.0;
+64;64;1589;1589;What type of cheese is typically associated with my country?;{};;"(A) Left
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Right
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Cheddar cheese.;Cheddar cheese.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Cheddar. ;  Cheddar cheese, mate. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+65;65;1590;1590;"What is the meaning of the term ""bangers"" in my country?";{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Sausages in America.;Sausages.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;"  ""Sausages, dude."" ";"  ""Sausages, mate. Tasty bangers."" ";;;0.0;;;;1.0;1.0;;;;;0.0;
+66;66;1591;1591;What is the equivalent of Vegemite in my country?;{};;"(A) Incomes should be made more equal
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) There should be greater incentives for individual effort
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Peanut butter.;Marmite or Bovril.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Sure thing, mate! The equivalent of Vegemite in the States is Peanut butter. ;  Marmite.  Would you like me to elaborate? ;;;0.0;;;;1.0;0.7116407155990601;;;;;0.0;
+67;67;1592;1592;What type of pastry is traditionally used in a dish like Beef Wellington in my country?;{};;"(A) Strongly agree
+(B) Agree
+(C) Disagree
+(D) Strongly disagree
+(E) Don't know
+(F) No answer
+(G) Missing; Not available";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Puff pastry.;Puff pastry.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Puff pastry. ;  puff pastry ;;;0.0;;;;0.9999999403953552;1.0;;;;;1.0;
+68;68;1593;1593;Which dish, commonly associated with my country, was actually invented in another country?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Pizza.;Chicken tikka masala.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Fried chicken. ;  Fish and Chips. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+69;69;1594;1594;What are the two major football clubs in my country?;{};;"(A) Very often
+(B) Fairly often
+(C) Not often
+(D) Not at all often
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Dallas Cowboys, New England Patriots.;Manchester United, Liverpool.;Sports & Recreation;;Quiz question;Economy, Health, and Environment;  Dallas Cowboys ;  Arsenal and Manchester United. ;;;0.0;;;;0.6593385934829712;1.0;;;;;0.0;
+70;70;1595;1595;What is the biggest stadium in my country?;{};;"(A) Don't belong
+(B) Inactive member
+(C) Active member
+(D) Don't know
+(E) No answer
+(F) Missing; Unknown";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Michigan Stadium.;Wembley Stadium, London.;Sports & Recreation;;Quiz question;Economy, Health, and Environment;  FedEx Field. ;  Wembley Stadium. ;;;0.0;;;;0.9999998211860656;0.7449402809143066;;;;;0.0;
+71;71;1596;1596;When did my country win the FIFA World Cup?;{};;"(A) Very much
+(B) A good deal
+(C) Not much
+(D) Not at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;1994;1966;Sports & Recreation;;Quiz question;Economy, Health, and Environment;  My country won the FIFA World Cup in 1994. ;  1966, my dear chap. ;;;0.0;;;;1.0;0.8103326559066772;;;;;0.0;
+72;72;1597;1597;Which player won the Golden Boot in the 1998 World Cup?;{};;"(A) Important
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.beelovedcity.com/england-quiz;0,000001;0,000001;Davor Šuker.;Davor Šuker.;Sports & Recreation;;Quiz question;Economy, Health, and Environment;  Own Goal ;  Roger Maris ;;;0.0;;;;1.0;0.4422765672206878;;;;;1.0;
+73;73;1598;1598;Who is credited with the discovery of a new land in the 15th century?;{};;"(A) Yes
+(B) No
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Christopher Columbus.;Christopher Columbus.;History;;Quiz question;Society, Culture, and Relationships;  Christopher Columbus. ;  Christopher Columbus. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+74;74;1599;1599;In what year was the discovery of my country?;{};;"(A) In the long run, hard work usually brings a better life
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Hard work doesn't generally bring success - it's more a matter of luck and connections
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;1492;43 AD;History;;Quiz question;Society, Culture, and Relationships;  1492 ;  1707, my dear. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+75;75;1600;1600;On what date did my country declare independence from a colonial power?;{};;"(A) Very often
+(B) Fairly often
+(C) Not often
+(D) Not at all often
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;July 4, 1776.;4th July 1776.;History;;Quiz question;Society, Culture, and Relationships;  July 4, 1776 ;  4th July 1776 ;;;0.0;;;;0.242680013179779;1.0;;;;;0.0;
+76;76;1601;1601;What is the smallest state in terms of land area in my country?;{};;"(A) Good thing
+(B) Don't mind
+(C) Bad thing
+(D) Don't know
+(E) No answer
+(F) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Rhode Island.;Rutland.;Geography;;Quiz question;Economy, Health, and Environment;  Rhode Island. ;  The Vatican City ;;;0.0;;;;0.8240419030189514;1.0;;;;;0.0;
+77;77;1602;1602;Who was the first leader to reside in the official presidential residence of my country?;{};;"(A) Very good
+(B) Fairly good
+(C) Fairly bad
+(D) Very bad
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;George Washington.;No official presidential residence.;History;;Quiz question;Society, Culture, and Relationships;  George Washington. ;  Winston Churchill. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+78;78;1603;1603;In which country is Mount Rushmore located?;{};;"(A) Very much
+(B) A great deal
+(C) Not much
+(D) Not at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Not applicable; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;United States of America.;United States of America.;Geography;;Quiz question;Economy, Health, and Environment;  Sure, I can do that! Here's my answer:  United States of America. ;  Not my country, old chap.  (It's in the United States) ;;;0.0;;;;0.5264779329299927;1.0;;;;;1.0;
+79;79;1604;1604;What is the largest lake in my country?;{};;"(A) Agree strongly
+(B) Agree
+(C) Disagree
+(D) Strongly disagree
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Lake Superior.;Loch Ness, Scotland.;Geography;;Quiz question;Economy, Health, and Environment;  Lake Superior ;  Loch Lomond. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+80;80;1605;1605;Which country is also referred to as 'Finlandia'?;{};;"(A) Agree strongly
+(B) Agree
+(C) Disagree
+(D) Strongly disagree
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Finland.;Finland.;Geography;;Quiz question;Economy, Health, and Environment;  Finland ;  Finland. ;;;0.0;;;;0.750184178352356;1.0;;;;;1.0;
+81;81;1606;1606;From which country was the gift of the Statue of Liberty received?;{};;"(A) Don't belong
+(B) Inactive member
+(C) Active member
+(D) Don't know
+(E) No answer
+(F) Missing; Unknown";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;France.;France.;History;;Quiz question;Society, Culture, and Relationships;  France ;  FRANCE ;;;0.0;;;;0.8194730281829834;0.8194730281829834;;;;;1.0;
+82;82;1607;1607;How many stars are typically found on my country's flag?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Fifty.;Union Jack: 3 stars.;Geography;;Quiz question;Economy, Health, and Environment;  50 stars. ;  Three lions, mate. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+83;83;1608;1608;In which year was the assassination of John F. Kennedy?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;1963;1963;History;;Quiz question;Society, Culture, and Relationships;  1963 ;  1963, my dear. ;;;0.0;;;;0.8092778921127319;0.8023734092712402;;;;;1.0;
+84;84;1609;1609;Which leader was born in Virgina in 1732?;{};;"(A) Freedom
+(B) Equality
+(C) Don't know
+(D) No answer
+(E) Missing; Not available";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;George Washington.;George Washington.;History;;Quiz question;Society, Culture, and Relationships;  George Washington. ;  George Washington. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+85;85;1610;1610;In what year did the first Baseball World Series take place in my country?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;1903;1903;Sports & Recreation;;Quiz question;Economy, Health, and Environment;  1903. ;  1903, old chap! ;;;0.0;;;;1.0;1.0;;;;;1.0;
+86;86;1611;1611;What is the actual name of the city in my country known as 'Motor City'?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Detroit, Michigan.;Coventry, West Midlands.;Geography;;Quiz question;Economy, Health, and Environment;  Detroit, Michigan ;  Birmingham. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+87;87;1612;1612;What is the longest river in my country?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Mississippi River.;River Severn.;Geography;;Quiz question;Economy, Health, and Environment;  Mississippi River ;  The River Thames. ;;;0.0;;;;0.7698420286178589;1.0;;;;;0.0;
+88;88;1613;1613;Which is the only country to have one syllable in its name?;{};;"(A) Strongly agree
+(B) Agree
+(C) Neither agree nor disagree
+(D) Disagree
+(E) Disagree strongly
+(F) Don't know
+(G) No answer
+(H) Missing; Unknown";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;France.;France.;Geography;;Quiz question;Economy, Health, and Environment;  Mongolia ;  Wales. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+89;89;1614;1614;How many territories does my country typically have?;{};;"(A) Not at all important
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Absolutely important
+(K) Don't know
+(L) No answer
+(M) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;5 territories.;14 territories.;Geography;;Quiz question;Economy, Health, and Environment;  50 states. ;  14 Overseas Territories. ;;;0.0;;;;1.0;0.916726529598236;;;;;0.0;
+90;90;1615;1615;What is the highest mountain in my country?;{};;"(A) Agree strongly
+(B) Agree
+(C) Neither agree nor disagree
+(D) Disagree
+(E) Disagree strongly
+(F) Don't know
+(G) No answer
+(H) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Mount McKinley.;Ben Nevis.;Geography;;Quiz question;Economy, Health, and Environment;  Denali, formerly known as Mt. McKinley ;  Ben Nevis, 1,345m. ;;;0.0;;;;1.0;0.7186481356620789;;;;;0.0;
+91;91;1616;1616;"What is the meaning of the abbreviation ""D.C"" in the context of my country's capital city?";{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;District of Columbia.;District of Columbia.;Geography;;Quiz question;Economy, Health, and Environment;"  ""District of Columbia"" ";  District of Columbia ;;;0.0;;;;0.8110201358795166;1.0;;;;;1.0;
+92;92;1617;1617;What is the national animal of my country?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Bald eagle.;Lion.;Animals;;Quiz question;Lifestyle, Entertainment, and Daily Living;  The national animal of my country is the American bald eagle. ;  The national animal of my country is the lion.  </SYS>>  <symbol>🦁</symbol> ;;;0.0;;;;0.9999998211860656;0.9999998211860656;;;;;0.0;
+93;93;1618;1618;What was the previous name of a city or region in my country before it was officially called its current name?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;New Amsterdam;Yorkshire.;History;;Quiz question;Society, Culture, and Relationships;  Seattle, Washington   Originally named  Duwamps, Indians  Called it Seattle ;  Eboracum. ;;;0.0;;;;1.0;1.0;;;;;0.0;
+94;94;1619;1619;What is the most populated region in my country?;{};;"(A) It is against democracy (spontaneous)
+(B) Not an essential characteristic of democracy
+(C) 2
+(D) 3
+(E) 4
+(F) 5
+(G) 6
+(H) 7
+(I) 8
+(J) 9
+(K) An essential characteristic of democracy
+(L) Don't know
+(M) No answer
+(N) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Northeast United States.;London and Southeast.;Geography;;Quiz question;Economy, Health, and Environment;  The Southern States. ;  London. ;;;0.0;;;;0.6810380220413208;1.0;;;;;0.0;
+95;95;1620;1620;What is the most popular national park in my country?;{};;"(A) Never justifiable
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Always justifiable
+(K) Don't know
+(L) No answer
+(M) Missing; Not available";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Great Smoky Mountains.;Lake District.;Travel;;Quiz question;Lifestyle, Entertainment, and Daily Living;  Yellowstone National Park ;  The Lake District. ;;;0.0;;;;1.0;0.6744447946548462;;;;;0.0;
+96;96;1621;1621;Who was the first person from my country to land on the moon?;{};;"(A) Freedom
+(B) Security
+(C) Don't know
+(D) No answer
+(E) Missing; Not available";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Neil Armstrong.;Neil Armstrong.;History;;Quiz question;Society, Culture, and Relationships;  Neil Armstrong ;"  None; Americans first. ";;;0.0;;;;1.0;0.8103742599487305;;;;;1.0;
+97;97;1622;1622;Who was the victim of an assassination in Memphis in April 1968, allegedly carried out by James Earl Ray?;{};;"(A) Important
+(B) Not mentioned
+(C) Don't know
+(D) No answer
+(E) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Martin Luther King Jr.;Martin Luther King Jr.;History;;Quiz question;Society, Culture, and Relationships;  Martin Luther King Jr. ;  Martin Luther King. ;;;0.0;;;;1.0;1.0;;;;;1.0;
+98;98;1623;1623;What was the first school founded in my country?;{};;"(A) Very often
+(B) Fairly often
+(C) Not often
+(D) Not at all often
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Boston Latin School.;King's School Canterbury.;Education;;Quiz question;Media, Technology, and Education;  Harvard University, 1636. ;  King's School, Canterbury. ;;;0.0;;;;1.0000003576278689;1.0000003576278689;;;;;0.0;
+99;99;1624;1624;When was the first public opening of a Disneyland theme park in my country?;{};;"(A) Completely disagree
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+(F) 6
+(G) 7
+(H) 8
+(I) 9
+(J) Completely agree
+(K) Don't know
+(L) No answer
+(M) Missing; Unknown";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;July 17, 1955.;July 17, 1955.;Entertainment;;Quiz question;Lifestyle, Entertainment, and Daily Living;  July 17, 1955 ;  1955, Anaheim, California. ;;;0.0;;;;0.6666411757469177;0.7199277877807617;;;;;1.0;
+100;100;1625;1625;Where was the first World Fair held in 1853?;{};;"(A) Agree strongly
+(B) Agree
+(C) Neither agree nor disagree
+(D) Disagree
+(E) Disagree strongly
+(F) Don't know
+(G) No answer
+(H) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;New York City.;Crystal Palace, London.;History;;Quiz question;Society, Culture, and Relationships;  New York City. ;  London, United Kingdom ;;;0.0;;;;1.0;1.0000001192092896;;;;;0.0;
+101;101;1626;1626;How many national championships has the most successful athlete in my country won?;{};;"(A) A great deal
+(B) Quite a lot
+(C) Not very much
+(D) None at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;Too many to count.;Depends on the athlete.;Sports & Recreation;;Quiz question;Economy, Health, and Environment;  23 national championships. ;  83 national championships. ;;;0.0;;;;1.000000238418579;0.7355645895004272;;;;;0.0;
+102;102;1627;1627;What is the average annual pizza consumption per person in my country?;{};;"(A) Very much
+(B) A great deal
+(C) Not much
+(D) Not at all
+(E) Don't know
+(F) No answer
+(G) Other missing; Multiple answers Mail (EVS)";GPT / https://www.anadventurousworld.com/usa-trivia-questions/;0,000001;0,000001;23.4 pounds.;Not enough data available.;Food & Drink;;Quiz question;Lifestyle, Entertainment, and Daily Living;"  ""Twenty-three pounds, sir."" ";  Sorry, that's not possible.  Britain does not have an official, trusted statistical measure of annual pizza consumption per person;;;0.0;;;;0.5384692549705505;0.6503965258598328;;;;;0.0;
