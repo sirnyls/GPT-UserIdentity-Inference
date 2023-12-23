@@ -15,7 +15,6 @@ def gpt4_text_similarity(text1, text2, model="gpt-4"):
     text1 (str): First text for comparison.
     text2 (str): Second text for comparison.
     model (str): The GPT model to use.
-    openai_api_key (str): Your OpenAI API key.
 
     Returns:
     float: A similarity score between 0 (not similar) and 1 (very similar).
