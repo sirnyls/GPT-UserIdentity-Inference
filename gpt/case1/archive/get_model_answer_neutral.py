@@ -32,6 +32,6 @@ for index, row in df.iterrows():
     print(index)
     print(response['choices'][0]['message']['content'])
     df.at[index,'model_answer_neutral'] = response['choices'][0]['message']['content']
-    df.to_csv('../data/data_merged.csv', sep=';')
+    #df.to_csv('../data/data_merged.csv', sep=';')
 
 
